@@ -1,0 +1,9 @@
+.item {
+  align-content: right;
+  align-self: center;
+}
+
+.itemContainer {
+  padding-top: 1vh;
+  max-width: 1vh;
+}
